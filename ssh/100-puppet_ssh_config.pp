@@ -12,4 +12,8 @@ file_line { 'Declare identity file':
   line  => '    IdentityFile ~/.ssh/school',
   match => '^.*IdentityFile.*$',
 }
+```
 
+**Step 3 — Save and exit**
+```
+ESC → :wq → Enter
