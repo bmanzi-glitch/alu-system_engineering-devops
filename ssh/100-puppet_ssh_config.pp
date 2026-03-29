@@ -1,4 +1,4 @@
-
+# Configures SSH client to use school key and disable password auth
 include stdlib
 
 file_line { 'Turn off passwd auth':
